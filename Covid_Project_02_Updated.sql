@@ -290,3 +290,5 @@ JOIN CovidProject..CovidVaccinations AS cv
 WHERE
 	cv.continent IS NOT NULL
 	AND cv.continent != ' '
+
+-- END OF THE QUERY!

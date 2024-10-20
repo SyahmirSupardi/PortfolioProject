@@ -224,7 +224,7 @@ ALTER TABLE
 DROP COLUMN SaleDate 
 ;
 
------------------------ END OF THE PROJECT
+----------------------- END OF THE QUERIES!
 
 -- Double Check the table
 
